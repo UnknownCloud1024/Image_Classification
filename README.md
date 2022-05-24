@@ -71,7 +71,7 @@ your own dataset for training according to this file structure.
 
 # Result show
 
-![](data/predict.jpg)
+![](./data/predict.jpg)
 
 # Reference
 

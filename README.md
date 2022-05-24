@@ -71,7 +71,7 @@ your own dataset for training according to this file structure.
 
 # Result show
 
-![](C:\Users\Cloud\AppData\Roaming\marktext\images\2022-05-24-09-39-05-image.png)
+![](data/predict.jpg)
 
 # Reference
 

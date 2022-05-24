@@ -59,6 +59,8 @@ your own dataset for training according to this file structure.
    
    epochs                    # Training times
 
+Note: You have first run **train.py** to train the model, after training, there will be an output weight file. Then you can run **predit.py**
+
 2. Run **predict.py** to test training result
    
    Configuration
